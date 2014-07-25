@@ -10,8 +10,8 @@
 ## it has changed.  If it is the initial matrix or if the matrix has changed,
 ## it will calculate the inverse of the matrix and call functions to cache
 ## the current value of the matrix and the inverse of the matrix.  If it has 
-## not changed, it will return the value of the cache matrix and set new values
-## for the input matrix.
+## not changed, it will return the value of the cache matrix and set new 
+## random values for the input matrix.
 
 
 ## makeCacheMatrix will provide the initial matrix value to cacheSolve and cache
